@@ -1,13 +1,16 @@
 # Automatic register system for a store 
 
-This project code include a virtual  program wrote in python language which allows a store owner registers  in a receipt an order per customer, including some details like : names, products'amount  and  generate a sales invoice which give to customer a full report of.
+This project is a virtual management tool developed in Python for store. It's a reliable solution for store owners who need to digitize their daily transactions. The software optimizes the sales records while it updates internal processes through technology. This system generates a professional sales invoice for every customer automatically.
 
 ## Feautre
-* Ask for the customer's name.
+* The program asks for the customer's full name to personalize the receipt.
 * Allow selections of productos available in store.
-* Record the quantity of each product.
-* Calculate a display an order summary.
+* The system records the specific quantity of each item purchased.
+* Calculates the total and displays an order summary on the screen.
 * Generate a sales invoice with customer's name and the products purchased.
+
+## Status.
+The functional code is complete, but I am currently adjusting the aesthetic requirements.
 
 ## Language used 
 Python.
