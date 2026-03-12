@@ -12,5 +12,6 @@ Feautre
 ##Language used 
 Python.
 
-Code Objective
-Optimize the sales's record while using an  technology systems to update internal sales process.
+*Code Objective*
+
+Optimize the sales's record in a store while using an  technology systems to update internal sales process.
