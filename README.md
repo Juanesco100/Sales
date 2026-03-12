@@ -17,5 +17,7 @@ Python.
 Optimize the sales's record in a store while using an  technology systems to update internal sales process.
 
 
-![Diagrama sin título drawio_page-0001](https://github.com/user-attachments/assets/c5a0b4b4-c183-47a7-bda1-02cadf4b5eb6)
+<img width="561" height="771" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/101bb01c-1887-479a-859a-b431e6f83bb2" />
+
+
 
