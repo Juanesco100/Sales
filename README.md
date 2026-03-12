@@ -16,7 +16,8 @@ Python.
 
 Optimize the sales's record in a store while using an  technology systems to update internal sales process.
 
-<img width="701" height="841" alt="Flow drawio" src="https://github.com/user-attachments/assets/066ac763-fc58-4bb7-9a10-9b041c4093b5" />
+<img width="521" height="841" alt="Flow exercise drawio" src="https://github.com/user-attachments/assets/b8c0a174-4ee3-4493-a0ff-74af2eba4c5d" />
+
 
 
 
