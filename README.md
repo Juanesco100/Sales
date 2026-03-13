@@ -9,7 +9,7 @@ This project is a virtual management tool developed in Python for store. It's a 
 * Calculates the total and displays an order summary on the screen.
 * Generate a sales invoice with customer's name and the products purchased.
 
-## Status.
+> Status.
 The functional code is complete, but I am currently adjusting the aesthetic requirements.
 
 ## Language used 
