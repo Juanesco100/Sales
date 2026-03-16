@@ -22,6 +22,8 @@ Optimize the sales's record in a store while using an  technology systems to upd
 
 
 file:///home/Cohorte5/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202026-03-16%2010-00-29.png 
+<img width="521" height="841" alt="Flow exercise drawio" src="https://github.com/user-attachments/assets/b8c0a174-4ee3-4493-a0ff-74af2eba4c5d" />
+
 
 
 
